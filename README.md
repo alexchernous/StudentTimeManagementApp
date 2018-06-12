@@ -1,13 +1,5 @@
-# project-team-16
+# Student Time Management Application
 
-## Use the *strings.xml* located in *res/values* instead of hardcoding literals
+## This is a simple time management application done for a university class as a final project.
 
-## To have a toolbar with navigation on each page every activity must follow this format:
-
-> DrawerLayout
-
-  > >include some content page or just simply put your content in here
-  
-  > >include app_bar_menu
-  
-  > >NavigationView
+## It uses Android Studio/Java/Google Firebase to showcase front-end/back-end/database integration and software development
